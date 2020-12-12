@@ -1,2 +1,0 @@
-# -Assembly-Code-for-pringting-even-or-odd
-Input Format: You are required to enter two positive integers x and y (x>=1 and y&lt;=9) and x&lt;y, separated by a newline. Output Format: For each integer n ∈ [x,y] (so all numbers in that range):  If 1 ≤ n ≤ 6, then print the English representation of it. That is “one” for 1, “two” for 2, and so on.  Else if n>6 and it is even, then print “even”.  Else if n>6 and it is odd, then print “odd”. Create at least one procedure named IntRep in order to meet given requirements
